@@ -1,0 +1,25 @@
+{
+	"name": "CustomTrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "ExcelToSqlPipeline",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2020-10-29T05:07:00Z",
+				"endTime": "2020-11-03T05:07:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}
