@@ -36,7 +36,7 @@
 								"sink": {
 									"type": "AzureSqlSink",
 									"preCopyScript": {
-										"value": "@{drop table if exists item()}",
+										"value": "drop table if exists dbo.@item",
 										"type": "Expression"
 									},
 									"tableOption": "autoCreate",
