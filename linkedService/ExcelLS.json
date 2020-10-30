@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"host": "F:\\Project Gladiator",
 			"userId": "LAPTOP-9RHT4SO9\\Bharati",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzOWY1MTRiYy04ZjJlLTRlZmQtOGE5Yy1kZTVkYTBmMzQ3NGYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiMmUxNmE2Yy03MTllLTQ5MDctYjk2MS03ZmE1MGM4OTBjODMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "MySelfHostedIR",
